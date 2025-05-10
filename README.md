@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sgatheca
 - 👀 I’m interested in #DataScience #AI #BigData #ML
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on R, Python
+- 💞️ I’m looking to collaborate on R, Python, SQL
 - 📫 How to reach me <https:twitter.com/sgathecake>
 
 <!---
